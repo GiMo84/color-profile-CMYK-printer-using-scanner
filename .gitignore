@@ -1,0 +1,19 @@
+# Ignore scans
+scans/
+
+# Ignore measures and charts
+*.ps
+*.ti1
+*.ti2
+*.ti3
+*.cht
+K_CURVE.conf
+
+# Ignore tiffs in main folder (likely diag.tif)
+*.tif
+
+# Ignore output profiles
+*.icc
+
+# Keep scanner profiles!
+!icc/*

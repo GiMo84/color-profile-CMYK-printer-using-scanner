@@ -1,0 +1,214 @@
+﻿{
+    "Preset": [
+        {
+            "0": [
+                {
+                    "AFMMode": {
+                        "int": 0
+                    },
+                    "AFMTimeout": {
+                        "int": 180
+                    },
+                    "AddPages": {
+                        "int": 0
+                    },
+                    "AutoColorPixelLevel": {
+                        "int": 2
+                    },
+                    "AutoColorPixelType": {
+                        "int": 1
+                    },
+                    "AutoCroppingInscribed": {
+                        "int": 0
+                    },
+                    "AutoSize": {
+                        "int": 0
+                    },
+                    "BackgroundColor": {
+                        "int": 0
+                    },
+                    "BackgroundRemoval": {
+                        "int": 0
+                    },
+                    "BlankPageSkip": {
+                        "int": 0
+                    },
+                    "BlankPageSkipLevel": {
+                        "int": 10
+                    },
+                    "Brightness": {
+                        "int": 0
+                    },
+                    "ColorType": {
+                        "int": 0
+                    },
+                    "Contrast": {
+                        "int": 0
+                    },
+                    "DNShow_LongPaperWarning_dialog": {
+                        "int": 0
+                    },
+                    "DNShow_PlasticCard_dialog": {
+                        "int": 0
+                    },
+                    "DeficiencyCorrection": {
+                        "int": 0
+                    },
+                    "DoubleFeedDetection": {
+                        "int": 1
+                    },
+                    "DoubleFeedDetectionAreaLength": {
+                        "int": 1550
+                    },
+                    "DoubleFeedDetectionAreaMin": {
+                        "int": 0
+                    },
+                    "DoubleFeedDetectionLevel": {
+                        "int": 0
+                    },
+                    "DropoutColor": {
+                        "int": 0
+                    },
+                    "DuplexType": {
+                        "int": 0
+                    },
+                    "FileNameCounter": {
+                        "int": 1
+                    },
+                    "FileNameOverWrite": {
+                        "int": 0
+                    },
+                    "FileNamePrefix": {
+                        "string": "img"
+                    },
+                    "FixedDocumentSize": {
+                        "int": 3
+                    },
+                    "Folder": {
+                        "int": 101
+                    },
+                    "FunctionalUnit": {
+                        "int": 0
+                    },
+                    "FunctionalUnit_Auto": {
+                        "int": 0
+                    },
+                    "Gamma": {
+                        "int": 22
+                    },
+                    "ImageFormat": {
+                        "int": 2
+                    },
+                    "ImageOption": {
+                        "int": 0
+                    },
+                    "JpegQuality": {
+                        "int": 0
+                    },
+                    "JpegQualityForJpeg": {
+                        "int": 85
+                    },
+                    "JpegQualityForPdf": {
+                        "int": 37
+                    },
+                    "MultiTiffCompression": {
+                        "int": 1
+                    },
+                    "MultiTiffEnabled": {
+                        "int": 0
+                    },
+                    "NearDurationAlert": {
+                        "int": 0
+                    },
+                    "OFDEnabled": {
+                        "int": 0
+                    },
+                    "Orientation": {
+                        "int": 1
+                    },
+                    "OverDurationAlert": {
+                        "int": 0
+                    },
+                    "PDFAllPages": {
+                        "int": 1
+                    },
+                    "PDFSelectPage": {
+                        "int": 1
+                    },
+                    "PagesTobeScanned": {
+                        "int": 0
+                    },
+                    "PaperDeskew": {
+                        "int": 1
+                    },
+                    "PaperEndDetection": {
+                        "int": 0
+                    },
+                    "PaperEndDetectionMemory": {
+                        "int": 0
+                    },
+                    "RemovePunchHole": {
+                        "int": 0
+                    },
+                    "Resolution": {
+                        "int": 600
+                    },
+                    "ScanAreaHeight": {
+                        "int": 7015
+                    },
+                    "ScanAreaOffsetX": {
+                        "int": 0
+                    },
+                    "ScanAreaOffsetY": {
+                        "int": 0
+                    },
+                    "ScanAreaWidth": {
+                        "int": 4960
+                    },
+                    "Threshold": {
+                        "int": 110
+                    },
+                    "TransferCompression": {
+                        "int": 0
+                    },
+                    "UserDefinePath": {
+                        "string": "./"
+                    },
+                    "UserScanAreaHeight": {
+                        "int": 0
+                    },
+                    "UserScanAreaWidth": {
+                        "int": 0
+                    },
+                    "continuousAutoFeedingMode": {
+                        "int": 0
+                    },
+                    "documentType": {
+                        "int": 0
+                    },
+                    "focusPosition": {
+                        "int": 0
+                    },
+                    "jpegProgressive": {
+                        "int": 1
+                    },
+                    "textEnhance": {
+                        "int": 0
+                    },
+                    "textEnhanceNoiseReductionLevel": {
+                        "int": 1
+                    },
+                    "textEnhancePaperCreaseReduction": {
+                        "int": 1
+                    },
+                    "textEnhanceSensitivity": {
+                        "int": 0
+                    },
+                    "thresholdAdjustment": {
+                        "int": 0
+                    }
+                }
+            ]
+        }
+    ]
+}
