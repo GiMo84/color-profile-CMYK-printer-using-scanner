@@ -7,6 +7,7 @@ scans/
 *.ti2
 *.ti3
 *.cht
+*.cal
 K_CURVE.conf
 
 # Ignore tiffs in main folder (likely diag.tif)

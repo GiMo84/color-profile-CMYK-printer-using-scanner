@@ -9,14 +9,15 @@ fi
 
 K_CURVE=$(cat "$K_CURVE_STORE")
 
-colprof -r 2.0 -v \
+colprof -r $SCANNER_NOISE -v \
     -A "$PRINTER_MANUFACTURER" \
     -M "$PRINTER_FRIENDLY" \
     -D "$TARGET_PROFILE_NAME" \
     -C "Dr.G" \
     -qh \
     $K_CURVE \
-    -l$INK_LIMIT_PROFILE \
+    -l $INK_LIMIT_PROFILE \
+    -L $INK_LIMIT_PROFILE_BLACK \
     -S "$DEFAULT_LINK_PROFILE" \
     -cmt -dpp \
     -O "$TARGET_PROFILE_NAME" \
